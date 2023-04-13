@@ -1,53 +1,32 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 08/12/2019
+tags: cnc
+description: This HDPE plate was made to provide something smooth, tough, and most importantly sacrificial for a winch cable to ride against.
+slug: boat-house-wear-plate
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Boat House Wear Plate
+
+This HDPE plate was made to provide something smooth, tough, and most importantly sacrificial for a winch cable to ride against.
 
 ## Table of Contents
-- [Title](#title)
+
+- [Boat House Wear Plate](#boat-house-wear-plate)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
   - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+The boathouse at the Milton Camp has a powered winch to pull watercraft up the ramp. The winch is located at the back of the boathouse and has to make a trip to the waterfront down a slope causing it to rub harshly on the wood flooring where it transitions from the flat interior to the sloped ramp. This HDPE plate was made to provide something smooth, tough, and most importantly sacrificial for the cable to ride against.
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+- Fusion 360
 
 ## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+- [The Milton Camp](https://themiltoncamp.com).
